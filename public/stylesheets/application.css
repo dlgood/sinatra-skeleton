@@ -1,0 +1,21 @@
+.contact {
+  height: 200px;
+  width: 500px;
+  border: solid 1px blue;
+  background-color: #DDD;
+  margin: 10px;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.search-form {
+  display: inline-block;
+}
+
+div {
+  padding: 10px;
+}
+
+p {
+  padding: 10px;
+}
